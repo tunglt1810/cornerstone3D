@@ -637,6 +637,7 @@ class RenderingEngine {
       // TODO - make this use get/set Presentation or in some way preserve the
       // basic presentation info on this viewport, rather than preserving camera
       if (keepCamera) {
+        vp.setCamera(prevCamera);
         if (displayArea) {
           if (flipHorizontal) {
             vp.setCamera({ flipHorizontal });
@@ -644,8 +645,6 @@ class RenderingEngine {
           if (rotation) {
             vp.setViewPresentation({ rotation });
           }
-        } else {
-          vp.setCamera(prevCamera);
         }
       }
     });
