@@ -1,7 +1,6 @@
 {
   "name": "root",
   "description": "Cornerstone.js Monorepo Root",
-  "private": true,
   "workspaces": [
     "packages/adapters",
     "packages/core",

@@ -1,5 +1,5 @@
 {
-  "name": "@cornerstonejs/core",
+  "name": "@tunglt91/cornerstonejs.core",
   "version": "3.25.0",
   "description": "Cornerstone3D Core",
   "module": "./dist/esm/index.js",

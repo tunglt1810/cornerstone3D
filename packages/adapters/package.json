@@ -1,5 +1,5 @@
 {
-    "name": "@cornerstonejs/adapters",
+    "name": "@tunglt91/cornerstonejs.adapters",
     "version": "3.25.0",
     "description": "Adapters for Cornerstone3D to/from formats including DICOM SR and others",
     "module": "./dist/esm/index.js",

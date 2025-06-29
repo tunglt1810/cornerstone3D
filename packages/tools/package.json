@@ -1,5 +1,5 @@
 {
-  "name": "@cornerstonejs/tools",
+  "name": "@tunglt91/cornerstonejs.tools",
   "version": "3.25.0",
   "description": "Cornerstone3D Tools",
   "types": "./dist/esm/index.d.ts",
